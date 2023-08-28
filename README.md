@@ -1,1 +1,1 @@
-![DangVietH's GitHub stats](https://github-readme-stats.vercel.app/api?username=DangVietH&show_icons=true&theme=radical)
+![duckvshuman's GitHub stats](https://github-readme-stats.vercel.app/api?username=duckvshuman&show_icons=true&theme=radical)
